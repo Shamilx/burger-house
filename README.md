@@ -10,4 +10,5 @@ Skills I have learned so far:
 <ul>
 <li><a href="https://getbootstrap.com/docs/5.0/layout/containers/">Bootstrap Containers</a></li>
 <li><a href="https://getbootstrap.com/docs/5.0/layout/grid/">Bootstrap Grid</a></li>
+<li><a href="https://getbootstrap.com/docs/4.0/utilities/flex/">Bootstrap Flex</a></li>
 </ul>
