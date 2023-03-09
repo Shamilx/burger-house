@@ -1,21 +1,19 @@
 .navbar-link {
     color: #42200b;
-    font-family: inherit;
     text-decoration: none;
     cursor: pointer;
     transition: color .2s ease-in-out;
     text-transform: uppercase;
     letter-spacing: 2px;
-    font-weight: 500;
+    font-weight: 800;
     margin: 0.8rem 0.2rem;
-
 }
 
-#callUs {
-    font-family: inherit;
-    font-weight: 500;
-}
 
+#callUs p {
+    color: azure;
+    font-weight: 800;
+}
 
 .navbar-link:hover {
     color: white;
