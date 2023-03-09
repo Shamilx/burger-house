@@ -1,4 +1,4 @@
-.navbar-links {
+.navbar-link {
     color: #42200b;
     font-family: inherit;
     text-decoration: none;
@@ -7,18 +7,41 @@
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: 500;
+    margin: 0.8rem 0.2rem;
+
 }
 
-#phoneNumber {
+#callUs {
     font-family: inherit;
     font-weight: 500;
 }
 
-#collapsible li {
-    display: inline;
+
+.navbar-link:hover {
+    color: white;
 }
 
-.navbar-links:hover {
+/* 
+.navbar-toggler {
+    position: absolute;
+    top: 0;
+    right: 0;
+} */
 
-    color: white;
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.material-symbols-outlined {
+    font-size: 2rem;
+    color: black;
+}
+
+@media screen and (max-width: 576px) {
+    .navbar-link {
+        border-bottom: 1px dashed #42200b;
+    }
 }
