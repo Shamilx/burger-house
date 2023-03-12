@@ -1,3 +1,7 @@
+.header-nav {
+    font-family: 'K2D', sans-serif;
+}
+
 .navbar-link {
     color: #42200b;
     text-decoration: none;
@@ -9,7 +13,6 @@
     margin: 0.8rem 0.2rem;
 }
 
-
 #callUs p {
     color: azure;
     font-weight: 800;
@@ -18,13 +21,6 @@
 .navbar-link:hover {
     color: white;
 }
-
-/* 
-.navbar-toggler {
-    position: absolute;
-    top: 0;
-    right: 0;
-} */
 
 .navbar-toggler:focus,
 .navbar-toggler:active,
@@ -36,6 +32,72 @@
 .material-symbols-outlined {
     font-size: 2rem;
     color: black;
+}
+
+.header-content {
+    font-family: 'Lora', serif;
+}
+
+.header-title {
+    text-transform: uppercase;
+    font-weight: 800;
+    color: #42200b;
+    margin: 0;
+    font-size: calc(0.7rem + 0.5vw);
+    line-height: 2.5rem;
+
+    /* Dashed Border */
+    background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' rx='3' ry='3' stroke='black' stroke-width='2' stroke-dasharray='7%2c 13' stroke-dashoffset='25' stroke-linecap='round'/%3e%3c/svg%3e");
+    border-radius: 1px;
+}
+
+.burger-week {
+    text-transform: uppercase;
+    color: #42200b;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: calc(3rem + 4vw);
+    margin: 0;
+    line-height: calc(5rem + 1vw);
+    letter-spacing: 1px;
+}
+
+.burger-week span {
+    display: block;
+    letter-spacing: 2px;
+    font-family: inherit;
+    font-size: 4rem;
+}
+
+.burger-price {
+    border-radius: 50%;
+    color: white;
+    width: calc(7rem + 3vw);
+    height: calc(7rem + 3vw);
+    position: absolute;
+    left: 5%;
+    bottom: 5%;
+    background-color: red;
+
+}
+
+.divi {
+    background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' rx='100' ry='100' stroke='white' stroke-width='4' stroke-dasharray='21' stroke-dashoffset='0' stroke-linecap='butt'/%3e%3c/svg%3e");
+    border-radius: 100px;
+}
+
+.price {
+    font-size: calc(1.5rem + 0.7vw);
+
+}
+
+.price span {
+    font-size: calc(0.6rem + 0.7vw);
+}
+
+.price-only {
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: calc(1rem + 0.5vw);
 }
 
 @media screen and (max-width: 576px) {
