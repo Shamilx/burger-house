@@ -7,6 +7,9 @@
 /*Lora*/
 @import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
 
+/*Signika Negative*/
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@400;500;600;700&display=swap');
+
 :root {
     box-sizing: border-box;
 }
@@ -21,3 +24,26 @@
 header {
     background-color: #ffc219;
 }
+
+/* .hoverable-img {
+    cursor: pointer;
+    transition: transform .2s ease-in-out, filter .3s ease-in-out;
+    transition-delay: .1s;
+}
+
+.burgers img {
+    filter: brightness(85%);
+    -webkit-filter: brightness(85%);
+}
+
+@media (hover: hover) and (pointer: fine) {
+    .hoverable-img:hover {
+        transform: scale(1.05);
+        filter: brightness(80%);
+        -webkit-filter: brightness(80%);
+    }
+
+    #burger-one:hover>#burger-two {
+        transform: scale(3);
+    }
+} */

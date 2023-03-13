@@ -1,0 +1,16 @@
+.try-it {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    font-weight: 600;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.try-it>p:nth-child(1) {
+    font-size: calc(1rem + 0.5vw);
+}
+
+.try-it>p:nth-child(2) {
+    font-size: calc(1rem + 1vw);
+    font-weight: 700;
+}
