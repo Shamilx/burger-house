@@ -1,0 +1,20 @@
+.carousel-indicators {
+    justify-content: flex-start !important;
+    bottom: -50px;
+    margin: 0 0 !important;
+}
+
+.carousel-indicators li {
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 50% !important;
+    background-color: gray !important;
+}
+
+.carousel-indicators li.active {
+    background-color: yellow !important;
+}
+
+.carousel-text div {
+    height: 11rem;
+}
