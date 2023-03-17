@@ -10,27 +10,27 @@
     color: black;
 }
 
-.carousel-item div {
+.carousel-burgers div {
     height: 40rem;
 }
 
-.carousel-item div button {
+.carousel-burgers div button {
     background-color: #ff1516;
     color: white;
     font-weight: 700;
     border-radius: 0;
 }
 
-.carousel-item div h2 {
+.carousel-burgers div h2 {
     color: #491a02;
 }
 
-.carousel-item div p {
+.carousel-burgers div p {
     font-size: calc(0.6rem + 0.7vw);
     color: #491a02;
 }
 
-.carousel-item div img {
+.carousel-burgers div img {
     /* TODO: Apply Box Shadow To Bottom */
     box-shadow: none;
 }

@@ -24,7 +24,7 @@
 
 <body>
     <header>
-        <div class="container-fluid px-sm-3 px-md-5 py-4">
+        <div class="container-fluid px-sm-3 px-md-5 pt-4 pb-5">
             <div class="row siginika">
                 <div class="col-6 col-sm-3 mt-3 mt-sm-4">
                     <img src="img/burgerhouse.png" />
@@ -141,15 +141,10 @@
 
 
 
-            <div id="carouselId" class="carousel slide" data-bs-ride="carousel">
-                <ol class="carousel-indicators">
-                    <li data-bs-target="#carouselId" data-bs-slide-to="0" class="active" aria-current="true"
-                        aria-label="First slide"></li>
-                    <li data-bs-target="#carouselId" data-bs-slide-to="1" aria-label="Second slide"></li>
-                    <li data-bs-target="#carouselId" data-bs-slide-to="2" aria-label="Third slide"></li>
-                </ol>
+            <div id="carouselId" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
+
                 <div class="carousel-inner" role="listbox">
-                    <div class="carousel-item active">
+                    <div class="carousel-item active carousel-burgers">
                         <div class="d-flex align-items-center justify-content-center flex-column w-75 mx-auto">
                             <img src="img/choose_enjoy/burger-1.png" class="img-fluid" alt="First slide">
                             <h2 class="text-uppercase m-0 mt-4 alfa-slab">Lorem ipsum dolor</h2>
@@ -157,7 +152,7 @@
                             <button class="text-uppercase btn mt-3 siginika">Order Now</button>
                         </div>
                     </div>
-                    <div class="carousel-item">
+                    <div class="carousel-item carousel-burgers">
                         <div class="d-flex align-items-center justify-content-center flex-column w-75 mx-auto">
                             <img src="img/choose_enjoy/burger-2.png" class="img-fluid" alt="First slide">
                             <h2 class="text-uppercase m-0 mt-4 alfa-slab">Lorem ipsum dolor</h2>
@@ -165,14 +160,7 @@
                             <button class="text-uppercase btn mt-3 siginika">Order Now</button>
                         </div>
                     </div>
-                    <div class="carousel-item">
-                        <div class="d-flex align-items-center justify-content-center flex-column w-75 mx-auto">
-                            <img src="img/choose_enjoy/burger-1.png" class="img-fluid" alt="First slide">
-                            <h2 class="text-uppercase m-0 mt-4 alfa-slab">Lorem ipsum dolor</h2>
-                            <p class="mt-3 siginika">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                            <button class="text-uppercase btn mt-3 siginika">Order Now</button>
-                        </div>
-                    </div>
+
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselId" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -182,6 +170,13 @@
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
+            </div>
+
+            <div class="upcoming-events row">
+                <div class="col-6">
+
+                </div>
+                <div class="col-6"></div>
             </div>
     </main>
 
