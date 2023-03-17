@@ -3,7 +3,6 @@
     top: 5%;
     left: 5%;
     font-weight: 600;
-    font-family: 'Signika Negative', sans-serif;
 }
 
 .try-it>p:nth-child(1) {
@@ -17,7 +16,6 @@
 }
 
 #tasty_burger {
-    font-family: 'Signika Negative', sans-serif;
     border-radius: 0;
     margin-top: 8rem;
 }

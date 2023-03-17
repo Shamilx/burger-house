@@ -1,0 +1,45 @@
+.carousel-control-next-icon:after {
+    content: '>';
+    font-size: 35px;
+    color: black;
+}
+
+.carousel-control-prev-icon:after {
+    content: '<';
+    font-size: 35px;
+    color: black;
+}
+
+.carousel-item div {
+    height: 40rem;
+}
+
+.carousel-item div button {
+    background-color: #ff1516;
+    color: white;
+    font-weight: 700;
+    border-radius: 0;
+}
+
+.carousel-item div h2 {
+    color: #491a02;
+}
+
+.carousel-item div p {
+    font-size: calc(0.6rem + 0.7vw);
+    color: #491a02;
+}
+
+.carousel-item div img {
+    /* TODO: Apply Box Shadow To Bottom */
+    box-shadow: none;
+}
+
+.choose_wrapper h1 {
+    color: #491a02;
+}
+
+.choose_wrapper p {
+    color: #491a02;
+    font-family: '';
+}

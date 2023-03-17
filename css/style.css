@@ -1,13 +1,15 @@
 /* K2D Font*/
 @import url('https://fonts.googleapis.com/css2?family=K2D:wght@400;500;800&display=swap');
 
-/* Alfa Slab Font*/
+/* Alfa Slab Font */
+/* For Burger Week Text */
 @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
 
-/*Lora*/
+/* Lora */
+/* For price */
 @import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
 
-/*Signika Negative*/
+/* Signika Negative */
 @import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@400;500;600;700&display=swap');
 
 :root {
@@ -23,6 +25,24 @@
 
 header {
     background-color: #ffc219;
+}
+
+/* Fonts */
+
+.siginika {
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.k2d {
+    font-family: 'K2D', sans-serif;
+}
+
+.alfa-slab {
+    font-family: 'Alfa Slab One', cursive;
+}
+
+.lora {
+    font-family: 'Lora', serif;
 }
 
 /* .hoverable-img {
