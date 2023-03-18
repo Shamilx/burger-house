@@ -87,6 +87,7 @@
 
     <main>
 
+        <!-- ! Main top content -->
         <div class="container-fluid p-5 burgers">
             <div class="row row-gap-5">
 
@@ -129,6 +130,7 @@
             </div>
         </div>
 
+        <!-- ! BURGER CAROUSEL WRAPPER -->
         <div class="choose_enjoy container-fluid mt-5">
             <div class="d-flex align-items-center flex-column choose_wrapper">
                 <h1 class="text-uppercase alfa-slab">Choose & Enjoy</h1>
@@ -141,7 +143,7 @@
             </div>
 
 
-
+            <!-- ! BURGER CAROUSEL-->
             <div id="carouselId" class="carousel slide" data-bs-ride="carousel" data-bs-interval="100000">
 
                 <div class="carousel-inner" role="listbox">
@@ -172,58 +174,63 @@
                     <span class="visually-hidden">Next</span>
                 </button>
             </div>
+        </div>
 
-            <div class="upcoming-events row mx-sm-4 py-5">
-                <div class="col-sm-6">
-                    <p class="text-uppercase text-dark siginika  fs-1 m-0 text-center text-sm-start">Discover</p>
-                    <p class="alfa-slab text-uppercase fs-2 text-center text-sm-start" style="color: var(--main-color)">
+        <!-- ! UPCOMING EVENTS -->
+        <div class="upcoming-events row mx-sm-4 py-4">
+            <div class="col-sm-6 d-sm-flex flex-sm-column align-items-center justify-content-center">
+                <div class="w-75 ms-4 mx-sm-0 mt-2">
+                    <p class="text-uppercase text-dark siginika fs-1 m-0 text-start">Discover</p>
+                    <p class="alfa-slab text-uppercase fs-2 text-start" style="color: var(--main-color)">
                         Upcoming events</p>
+                </div>
 
-                    <div id="carouselExampleIndicators" class="carousel slide w-75 w-sm-100 mx-auto mx-sm-0"
-                        data-bs-ride="carousel" data-bs-interval="5000">
-                        <ol class="carousel-indicators">
-                            <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"></li>
-                            <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"></li>
-                            <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"></li>
-                        </ol>
-                        <div class="carousel-inner">
-                            <div class="carousel-item active carousel-text">
-                                <div>
-                                    <p class="fs-5 siginika text-muted">Lorem ipsum dolor sit
-                                        amet consectetur
-                                        adipisicing elit. Mollitia corporis ullam obcaecati nostrum earum? Accusantium
-                                        ad ratione molestias enim nam amet iusto odio, voluptatibus veniam repellendus
-                                        quod, officiis labore? Beatae nulla omnis rerum earum expedita reiciendis
-                                        repellat tenetur quis ratione.</p>
-                                </div>
-                            </div>
-                            <div class="carousel-item carousel-text">
-                                <div>
-                                    <p class="fs-5 siginika text-muted">Lorem ipsum dolor sit amet consectetur
-                                        adipisicing elit. Doloremque officiis nulla impedit. Natus sequi velit numquam.
-                                        Quae deserunt saepe accusamus sapiente id cumque laudantium voluptate officia
-                                        tempore. Earum debitis aspernatur dignissimos explicabo suscipit, quod neque,
-                                        perspiciatis magni, consectetur quibusdam adipisci!</p>
-                                </div>
-                            </div>
-                            <div class="carousel-item carousel-text">
-                                <div>
-                                    <p class="fs-5 siginika text-muted">Lorem ipsum dolor sit amet consectetur
-                                        adipisicing elit. Provident tenetur pariatur neque, repellat voluptates
-                                        eligendi? Dicta repellat earum quia. Reprehenderit repudiandae recusandae
-                                        provident neque, totam dicta delectus odit eaque facere, necessitatibus ullam
-                                        impedit similique. Inventore iste facere enim quidem reiciendis.</p>
-                                </div>
+                <div id="carouselExampleIndicators" class="carousel slide w-75 ms-4 mx-sm-0" data-bs-ride="carousel"
+                    data-bs-interval="5000">
+
+                    <div class="carousel-inner">
+                        <div class="carousel-item active carousel-text">
+                            <div>
+                                <p class="fs-5 siginika text-muted">Lorem ipsum dolor sit
+                                    amet consectetur
+                                    adipisicing elit. Mollitia corporis ullam obcaecati nostrum earum? Accusantium
+                                    ad ratione molestias enim nam amet iusto odio, voluptatibus veniam repellendus
+                                    quod, officiis labore? Beatae nulla omnis rerum earum expedita reiciendis
+                                    repellat tenetur quis ratione.</p>
                             </div>
                         </div>
-
-                        </a>
+                        <div class="carousel-item carousel-text">
+                            <div>
+                                <p class="fs-5 siginika text-muted">Lorem ipsum dolor sit amet consectetur
+                                    adipisicing elit. Doloremque officiis nulla impedit. Natus sequi velit numquam.
+                                    Quae deserunt saepe accusamus sapiente id cumque laudantium voluptate officia
+                                    tempore. Earum debitis aspernatur dignissimos explicabo suscipit, quod neque,
+                                    perspiciatis magni, consectetur quibusdam adipisci!</p>
+                            </div>
+                        </div>
+                        <div class="carousel-item carousel-text">
+                            <div>
+                                <p class="fs-5 siginika text-muted">Lorem ipsum dolor sit amet consectetur
+                                    adipisicing elit. Provident tenetur pariatur neque, repellat voluptates
+                                    eligendi? Dicta repellat earum quia. Reprehenderit repudiandae recusandae
+                                    provident neque, totam dicta delectus odit eaque facere, necessitatibus ullam
+                                    impedit similique. Inventore iste facere enim quidem reiciendis.</p>
+                            </div>
+                        </div>
                     </div>
-                </div>
-                <div class="col-sm-6 d-flex justify-content-center align-items-center ">
+
+                    <ol class="carousel-indicators">
+                        <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"></li>
+                        <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"></li>
+                        <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"></li>
+                    </ol>
 
                 </div>
             </div>
+            <div class="col-sm-6 d-flex justify-content-center align-items-center">
+                <img src="img/upcoming_events/burger.png" class="img-fluid mt-5 mt-sm-0" />
+            </div>
+        </div>
     </main>
 
     <footer>

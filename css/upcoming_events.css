@@ -1,7 +1,7 @@
 .carousel-indicators {
+    position: static !important;
     justify-content: flex-start !important;
-    bottom: -50px;
-    margin: 0 0 !important;
+    margin: 20px 0 0 0 !important;
 }
 
 .carousel-indicators li {
