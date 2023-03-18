@@ -15,6 +15,7 @@
 :root {
     box-sizing: border-box;
     --main-color: #491a02;
+    --my-secondary-color: #42200b;
 }
 
 * {

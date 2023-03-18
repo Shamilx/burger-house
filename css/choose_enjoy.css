@@ -22,12 +22,13 @@
 }
 
 .carousel-burgers div h2 {
-    color: #491a02;
+    color: var(--main-color);
 }
 
 .carousel-burgers div p {
     font-size: calc(0.6rem + 0.7vw);
-    color: #491a02;
+    color: var(--main-color);
+
 }
 
 .carousel-burgers div img {
@@ -36,10 +37,11 @@
 }
 
 .choose_wrapper h1 {
-    color: #491a02;
+    color: var(--main-color);
+
 }
 
 .choose_wrapper p {
-    color: #491a02;
+    color: var(--main-color);
     font-family: '';
 }

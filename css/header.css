@@ -1,5 +1,5 @@
 .navbar-link {
-    color: #42200b;
+    color: var(--my-secondary-color);
     text-decoration: none;
     cursor: pointer;
     transition: color .2s ease-in-out;
@@ -33,7 +33,7 @@
 .header-title {
     text-transform: uppercase;
     font-weight: 800;
-    color: #42200b;
+    color: var(--my-secondary-color);
     margin: 0;
     font-size: calc(0.7rem + 0.5vw);
     line-height: 2.5rem;
@@ -45,7 +45,7 @@
 
 .burger-week {
     text-transform: uppercase;
-    color: #42200b;
+    color: var(--my-secondary-color);
     font-size: calc(3rem + 4vw);
     margin: 0;
     line-height: calc(5rem + 1vw);
