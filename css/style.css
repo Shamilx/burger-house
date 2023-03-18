@@ -16,6 +16,7 @@
     box-sizing: border-box;
     --main-color: #491a02;
     --my-secondary-color: #42200b;
+    --my-gray-color: #383838;
 }
 
 * {
@@ -39,6 +40,10 @@ header {
 
 .alfa-slab {
     font-family: 'Alfa Slab One', cursive;
+}
+
+.my-gray {
+    color: var(--my-gray-color);
 }
 
 /* .k2d {
