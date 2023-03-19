@@ -8,11 +8,12 @@ below:
 
 Skills I have learned so far:
 <ul>
-<li><a href="https://getbootstrap.com/docs/5.2/content/typography/">Bootstrap Typography</a></li>
-<li><a href="https://getbootstrap.com/docs/5.2/helpers/color-background/">Bootstrap Colors & Background </a></li>
-<li><a href="https://getbootstrap.com/docs/5.2/utilities/borders/">Bootstrap Borders </a></li>
-<li><a href="https://getbootstrap.com/docs/5.2/layout/containers/">Bootstrap Containers</a></li>
-<li><a href="https://getbootstrap.com/docs/5.2/layout/grid/">Bootstrap Grid</a></li>
-<li><a href="https://getbootstrap.com/docs/5.2/utilities/flex/">Bootstrap Flex</a></li>
-<li><a href="https://getbootstrap.com/docs/5.2/components/carousel/">Bootstrap Carousel</a></li>
+<li><a href="https://getbootstrap.com/docs/5.3/content/typography/">Bootstrap Typography</a></li>
+<li><a href="https://getbootstrap.com/docs/5.3/helpers/color-background/">Bootstrap Colors & Background </a></li>
+<li><a href="https://getbootstrap.com/docs/5.3/helpers/color-background/">Bootstrap Spacing </a></li>
+<li><a href="https://getbootstrap.com/docs/5.3/utilities/spacing/">Bootstrap Borders </a></li>
+<li><a href="https://getbootstrap.com/docs/5.3/layout/containers/">Bootstrap Containers</a></li>
+<li><a href="https://getbootstrap.com/docs/5.3/layout/grid/">Bootstrap Grid</a></li>
+<li><a href="https://getbootstrap.com/docs/5.3/utilities/flex/">Bootstrap Flex</a></li>
+<li><a href="https://getbootstrap.com/docs/5.3/components/carousel/">Bootstrap Carousel</a></li>
 </ul>
