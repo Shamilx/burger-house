@@ -1,0 +1,31 @@
+.reservation-title-wrapper {
+    color: var(--main-color);
+}
+
+.reservation-input {
+    width: 17rem;
+    outline: none;
+    box-shadow: none;
+    background-color: #ffb234;
+    padding: 13px;
+    border: 0px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    color: black;
+}
+
+.reservation-input::placeholder {
+    color: black;
+    opacity: 1;
+    font-family: 'Signika Negative', sans-serif;
+
+}
+
+#find_table {
+    color: white;
+    background-color: #ff1516;
+    padding: 13px;
+    width: 17rem;
+    border-radius: 5px !important;
+
+}

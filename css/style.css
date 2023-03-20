@@ -36,8 +36,6 @@ header {
     font-family: 'Signika Negative', sans-serif;
 }
 
-
-
 .alfa-slab {
     font-family: 'Alfa Slab One', cursive;
 }
@@ -45,6 +43,12 @@ header {
 .my-gray {
     color: var(--my-gray-color);
 }
+
+
+
+
+
+
 
 /* .k2d {
     font-family: 'K2D', sans-serif;
