@@ -13,6 +13,7 @@ Skills I have learned so far:
 <li><a href="https://getbootstrap.com/docs/5.3/helpers/color-background/">Bootstrap Spacing </a></li>
 <li><a href="https://getbootstrap.com/docs/5.3/utilities/spacing/">Bootstrap Borders </a></li>
 <li><a href="https://getbootstrap.com/docs/5.3/utilities/float/">Bootstrap Float</a></li>
+<li><a href="https://getbootstrap.com/docs/5.1/utilities/opacity/">Bootstrap Opacity</a></li>
 <li><a href="https://getbootstrap.com/docs/5.3/utilities/interactions/">Bootstrap Interactions </a></li>
 <li><a href="https://getbootstrap.com/docs/5.3/layout/containers/">Bootstrap Containers</a></li>
 <li><a href="https://getbootstrap.com/docs/5.3/layout/grid/">Bootstrap Grid</a></li>
