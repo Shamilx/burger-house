@@ -29,7 +29,7 @@ Skills I have learned so far:
 
 </ul>
 
-<h3>Not used in this project</h3>
+<h3>Not used in this project :</h3>
 <ul>
 <li><a href="https://getbootstrap.com/docs/5.3/utilities/borders/">Bootstrap Borders </a></li>
 
