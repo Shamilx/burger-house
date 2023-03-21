@@ -29,3 +29,8 @@
     border-radius: 5px !important;
 
 }
+
+#find_table:hover {
+    color: var(--my-gray-color);
+    background-color: transparent;
+}
