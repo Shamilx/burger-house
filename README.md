@@ -7,20 +7,50 @@ below:
 
 
 Skills I have learned so far:
+
+<h3>Used in this project : </h3>
+
 <ul>
 <li><a href="https://getbootstrap.com/docs/5.3/content/typography/">Bootstrap Typography</a></li>
+
 <li><a href="https://getbootstrap.com/docs/5.3/helpers/color-background/">Bootstrap Colors & Background </a></li>
-<li><a href="https://getbootstrap.com/docs/5.3/helpers/color-background/">Bootstrap Spacing </a></li>
-<li><a href="https://getbootstrap.com/docs/5.3/utilities/spacing/">Bootstrap Borders </a></li>
-<li><a href="https://getbootstrap.com/docs/5.3/utilities/float/">Bootstrap Float</a></li>
-<li><a href="https://getbootstrap.com/docs/5.3/utilities/opacity/">Bootstrap Opacity</a></li>
-<li><a href="https://getbootstrap.com/docs/5.3/utilities/shadows/">Bootstrap Shadows</a></li>
-<li><a href="https://getbootstrap.com/docs/5.3/utilities/overflow/">Bootstrap Overflow</a></li>
-<li><a href="https://getbootstrap.com/docs/5.3/utilities/float/">Bootstrap Visibility</a></li>
-<li><a href="https://getbootstrap.com/docs/5.3/helpers/visually-hidden/">Bootstrap Visually Hidden</a></li>
-<li><a href="https://getbootstrap.com/docs/5.3/utilities/interactions/">Bootstrap Interactions </a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/utilities/spacing/">Bootstrap Spacing</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/utilities/sizing/">Bootstrap Sizing</a></li>
+
 <li><a href="https://getbootstrap.com/docs/5.3/layout/containers/">Bootstrap Containers</a></li>
+
 <li><a href="https://getbootstrap.com/docs/5.3/layout/grid/">Bootstrap Grid</a></li>
+
 <li><a href="https://getbootstrap.com/docs/5.3/utilities/flex/">Bootstrap Flex</a></li>
+
 <li><a href="https://getbootstrap.com/docs/5.3/components/carousel/">Bootstrap Carousel</a></li>
+
+</ul>
+
+<h3>Not used in this project</h3>
+<ul>
+<li><a href="https://getbootstrap.com/docs/5.3/utilities/borders/">Bootstrap Borders </a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/utilities/float/">Bootstrap Float</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/utilities/opacity/">Bootstrap Opacity</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/utilities/shadows/">Bootstrap Shadows</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/utilities/overflow/">Bootstrap Overflow</a></li>
+
+<li><a href="https://getbootstrap.com/docs/4.0/utilities/visibility/">Bootstrap Visibility</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/helpers/visually-hidden/">Bootstrap Visually Hidden</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/utilities/vertical-align/">Bootstrap Vertical Alignment</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/helpers/colored-links/">Bootstrap Colored Links</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/helpers/text-truncation/">Bootstrap Text Truncation</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/utilities/interactions/">Bootstrap Interactions</a></li>
+
 </ul>
