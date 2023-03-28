@@ -1,0 +1,6 @@
+footer .container {
+    height: 400px;
+    background: url(../img/footer/footer-background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
