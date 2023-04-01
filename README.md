@@ -28,12 +28,14 @@ Skills I have learned so far:
 <li><a href="https://getbootstrap.com/docs/5.3/components/carousel/">Bootstrap Carousel</a></li>
   
 <li><a href="https://getbootstrap.com/docs/5.3/utilities/position/">Bootstrap Position</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/components/buttons/">Bootstrap Buttons</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/utilities/borders/">Bootstrap Borders</a></li>
 </ul>
 
 <h3>Not used in this project :</h3>
 <ul>
-<li><a href="https://getbootstrap.com/docs/5.3/utilities/borders/">Bootstrap Borders </a></li>
-
 <li><a href="https://getbootstrap.com/docs/5.3/utilities/float/">Bootstrap Float</a></li>
 
 <li><a href="https://getbootstrap.com/docs/5.3/utilities/opacity/">Bootstrap Opacity</a></li>
@@ -55,4 +57,6 @@ Skills I have learned so far:
 <li><a href="https://getbootstrap.com/docs/5.3/utilities/interactions/">Bootstrap Interactions</a></li>
   
 <li><a href="https://getbootstrap.com/docs/5.3/content/tables/">Bootstrap Tables</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/components/alerts/">Bootstrap Alerts</a></li>
 </ul>
