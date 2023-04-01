@@ -1,9 +1,9 @@
-# BurgerHouse (Not ready yet)
+# BurgerHouse
 
 This website project is showcase of my Bootstrap 5 Framework learning process. I am using Youtube resources and official Docs. You can check website from
 below:
 
-<a href="//shamilx.github.io/BurgerHouse">BurgerHouse</a>
+<a href="//shamilx.github.io/BurgerHouse">Click me to go to Website.</a>
 
 
 Skills I have learned so far:
@@ -26,7 +26,8 @@ Skills I have learned so far:
 <li><a href="https://getbootstrap.com/docs/5.3/utilities/flex/">Bootstrap Flex</a></li>
 
 <li><a href="https://getbootstrap.com/docs/5.3/components/carousel/">Bootstrap Carousel</a></li>
-
+  
+<li><a href="https://getbootstrap.com/docs/5.3/utilities/position/">Bootstrap Position</a></li>
 </ul>
 
 <h3>Not used in this project :</h3>
@@ -52,5 +53,6 @@ Skills I have learned so far:
 <li><a href="https://getbootstrap.com/docs/5.3/helpers/text-truncation/">Bootstrap Text Truncation</a></li>
 
 <li><a href="https://getbootstrap.com/docs/5.3/utilities/interactions/">Bootstrap Interactions</a></li>
+  
 
 </ul>
