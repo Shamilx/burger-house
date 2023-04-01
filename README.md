@@ -42,7 +42,7 @@ Skills I have learned so far:
 
 <li><a href="https://getbootstrap.com/docs/5.3/utilities/overflow/">Bootstrap Overflow</a></li>
 
-<li><a href="https://getbootstrap.com/docs/4.0/utilities/visibility/">Bootstrap Visibility</a></li>
+<li><a href="https://getbootstrap.com/docs/5.3/utilities/visibility/">Bootstrap Visibility</a></li>
 
 <li><a href="https://getbootstrap.com/docs/5.3/helpers/visually-hidden/">Bootstrap Visually Hidden</a></li>
 
@@ -54,5 +54,5 @@ Skills I have learned so far:
 
 <li><a href="https://getbootstrap.com/docs/5.3/utilities/interactions/">Bootstrap Interactions</a></li>
   
-
+<li><a href="https://getbootstrap.com/docs/5.3/content/tables/">Bootstrap Tables</a></li>
 </ul>
