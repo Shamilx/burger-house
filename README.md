@@ -59,4 +59,8 @@ Skills I have learned so far:
 <li><a href="https://getbootstrap.com/docs/5.3/content/tables/">Bootstrap Tables</a></li>
 
 <li><a href="https://getbootstrap.com/docs/5.3/components/alerts/">Bootstrap Alerts</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/components/button-group/">Bootstrap Button Groups</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/layout/gutters/">Bootstrap Gutters</a></li>
 </ul>
