@@ -63,4 +63,8 @@ Skills I have learned so far:
 <li><a href="https://getbootstrap.com/docs/5.3/components/button-group/">Bootstrap Button Groups</a></li>
 
 <li><a href="https://getbootstrap.com/docs/5.3/layout/gutters/">Bootstrap Gutters</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/components/badge/">Bootstrap Badges</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/components/breadcrumb/">Bootstrap Breadcrumbs</a></li>
 </ul>
