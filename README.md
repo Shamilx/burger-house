@@ -71,4 +71,10 @@ Skills I have learned so far:
 <li><a href="https://getbootstrap.com/docs/5.3/components/progress/">Bootstrap Progress Bars</a></li>
 
 <li><a href="https://getbootstrap.com/docs/5.3/components/spinners/">Bootstrap Spinners</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/components/pagination/">Bootstrap Pagination</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/components/list-group/">Bootstrap List Groups</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/components/tooltips/">Bootstrap Tool Tips</a></li>
 </ul>
