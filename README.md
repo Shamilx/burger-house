@@ -77,4 +77,12 @@ Skills I have learned so far:
 <li><a href="https://getbootstrap.com/docs/5.3/components/list-group/">Bootstrap List Groups</a></li>
 
 <li><a href="https://getbootstrap.com/docs/5.3/components/tooltips/">Bootstrap Tool Tips</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/components/card/">Bootstrap Cards</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/components/popovers/">Bootstrap Popover</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/components/collapse/">Bootstrap Collapse</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/components/dropdowns/">Bootstrap Dropdowns</a></li>
 </ul>
