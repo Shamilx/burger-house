@@ -85,4 +85,8 @@ Skills I have learned so far:
 <li><a href="https://getbootstrap.com/docs/5.3/components/collapse/">Bootstrap Collapse</a></li>
 
 <li><a href="https://getbootstrap.com/docs/5.3/components/dropdowns/">Bootstrap Dropdowns</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/components/navs-tabs/">Bootstrap Navs&Tabs</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/components/modal/">Bootstrap Modal</a></li>
 </ul>
