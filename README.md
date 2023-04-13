@@ -89,4 +89,10 @@ Skills I have learned so far:
 <li><a href="https://getbootstrap.com/docs/5.3/components/navs-tabs/">Bootstrap Navs&Tabs</a></li>
 
 <li><a href="https://getbootstrap.com/docs/5.3/components/modal/">Bootstrap Modal</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/components/accordion/">Bootstrap Accordion</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/components/offcanvas/">Bootstrap Offcanvas</a></li>
+
+<li><a href="https://getbootstrap.com/docs/5.3/components/navbar/">Bootstrap Nav</a></li>
 </ul>
