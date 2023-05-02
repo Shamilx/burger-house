@@ -3,7 +3,7 @@
 This website project is showcase of my Bootstrap 5 Framework learning process. I am using Youtube resources and official Docs. You can check website from
 below:
 
-<a href="//shamilx.github.io/BurgerHouse">Click me to go to Website.</a>
+<a href="//shamilx.github.io/burger-house">Click me to go to Website.</a>
 
 
 Skills I have learned so far:
